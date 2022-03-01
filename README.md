@@ -26,7 +26,7 @@ The purpose of this Excel project is to create:
 
 ### Analysis of Outcomes Based on Launch Date
 
-For 'Outcomes Based on Launch Date', we can see that campaigns lauched between May and June have most successfully met their fundraising goals. Those campaigns which failed, failed rather consistently throughouth the years within narrower number variations as compared to the successful ones. This can lead one to conclude that the failure of the failed campaigns had less to do with timing and were ruled more by perhaps other factor(s). As for the canceled campaigns, launch dates didn't seem to fluctuate that much ether as they seem to fail regardless of the month of the year. There wasn't any conclusive data available for failed campaigns lauched in October in this data set.  
+For 'Outcomes Based on Launch Date', we can see that campaigns lauched between May and June have most successfully met their fundraising goals. Those campaigns which failed did so rather consistently throughouth the years within narrower number variations as compared to the successful ones. This can lead one to conclude that the failure of the failed campaigns had less to do with timing and were ruled more by perhaps other factor(s). As for the canceled campaigns, launch dates didn't seem to fluctuate that much ether as they seem to fail regardless of the month of the year. There wasn't any conclusive data available for failed campaigns lauched in October in this data set.  
 
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/95712234/156226643-940741a4-56c9-4892-9340-96226a3647f8.png)
 
