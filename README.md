@@ -49,10 +49,14 @@ Based on the 'Outcomes based on Launch Date', one can first conclude that the mo
 
 The data clearly shows successful campaigns fair better in the lower budget goals and there are fewer successful ones in the higher budget goals. Altough there are many failed campaigns in the lower budgets, there seem to be more failed ones in the higher budget goals as compared to the successful ones. 
 
+![Descriptive Statistics](https://user-images.githubusercontent.com/95712234/156230314-88fe1f5f-2eb2-46d2-98f7-bc2ead2df610.png)
+
+
+
 - What are some limitations of this dataset?
 
 The dataset does not indicate reasons for cancelations based on launch date nor budget goals.
 
 - What are some other possible tables and/or graphs that we could create?
 
-I would be interested to remove remote outliers and see how that effects the distribution of line graph. It's easier to see it in a box plot but I feel it would significantly alter a line
+I would be interested to remove remote outliers and see how that effects the distribution of line graph. It's easier to see it in a box plot but I feel it would significantly alter a line graph.
