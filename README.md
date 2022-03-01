@@ -1,4 +1,3 @@
-# Kickstarter-Analysis
 # Kickstarting with Excel
 I will manipulate the given Excel data in order to reach possible conclusions based on those data readings.
 
@@ -29,9 +28,14 @@ The purpose of this Excel project is to create:
 
 For 'Outcomes Based on Launch Date', we can see that campaigns lauched between May and June have most successfully met their fundraising goals. Those campaigns which failed, failed rather consistently throughouth the years within narrower number variations as compared to the successful ones. This can lead one to conclude that the failure of the failed campaigns had less to do with timing and were ruled more by perhaps other factor(s). As for the canceled campaigns, launch dates didn't seem to fluctuate that much ether as they seem to fail regardless of the month of the year. There wasn't any conclusive data available for failed campaigns lauched in October in this data set.  
 
+![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/95712234/156226643-940741a4-56c9-4892-9340-96226a3647f8.png)
+
+
 ### Analysis of Outcomes Based on Goals
 
 For 'Outcomes Based on Goals', based on the findings we can see that the most number of successful campagins fall in the lower numeric ranges of $5000 and less. There is a decline between the $5000 and $30000 range. We can see a slight incline in the $30000 and $45000 only to drop again in the higher numbers, most likely indicating outliers. For the failed campaigns, the numbers were highest in the $5000 and below range. The percentage of successful campaigns decreased as the budget increased. Similarly the percentage of failed campaigns increased as the budget increased. 
+
+![Outcomes_vs_Goals](https://user-images.githubusercontent.com/95712234/156226826-e3a72b7c-c663-4b61-a9da-8836ffd16f2a.png)
 
 
 ## Results
